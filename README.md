@@ -348,6 +348,6 @@ All the best and happy coding.
 
 ## Developer Notes
 
-I have tried to do the best possible in the given time, but i think there is always room for improvement. Pusher updates were not connected as i was reciveing unauthorized response when subscribing to the channel. Lastly it was a great task from a learning point of view as well.
+I have tried to do the best possible in the given time, but i think there is always room for improvement. Pusher updates were not connected as i was receiving unauthorized response when subscribing to the channel. Lastly it was a great task from a learning point of view as well.
 
 Link to vercel deployement : https://regal-yeot-c3c372.netlify.app/admin/login
