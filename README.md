@@ -344,3 +344,10 @@ Example
 Please organize, design, test and document your code as if it were going into production and send us a pull request. We will review it and get back to you in order to talk about your code! 
 
 All the best and happy coding.
+
+
+## Developer Notes
+
+I have tried to do the best possible in the given time, but i think there is always room for improvement. Pusher updates were not connected as i was reciveing unauthorized response when subscribing to the channel. Lastly it was a great task from a learning point of view as well.
+
+Link to vercel deployement : https://regal-yeot-c3c372.netlify.app/admin/login
